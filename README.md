@@ -2,7 +2,7 @@
 Web application for sharing your stories
 
 **(This project is also created to practice web development by MERN stack)**
-**project source for practice : YOUTUBE channel JavaScript Mastery
+**project source for practice : YOUTUBE channel JavaScript Mastery**
 
 
 ## USE :
@@ -13,9 +13,9 @@ Web application for sharing your stories
 
 
 ## phase of project
-**NOW:**
+* **NOW:**
 practice web development by MERN stack
-**NEXT:**
+* **NEXT:**
 develop function for Authenticate and show more detail about some story
 
 
