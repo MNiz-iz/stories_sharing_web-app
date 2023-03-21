@@ -1,0 +1,15 @@
+### Database
+1.New MongoDB atlas [https://www.mongodb.com/atlas/database]
+2. Get a key of database
+--------------------------------------
+### start 
+1. Clone this project
+2. Split teminal in VScode 
+  * Terminal 1 > cd client
+  * Terminal 2 > cd server
+3. install json package for node module in client floder and Server floder (npm install package.json to node_modules)
+> npm install
+4. change CONNECTION_URL in file server/index.js or server/.env
+5. npm start in terminal server
+6. npm start in terminal client
+
