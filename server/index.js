@@ -17,7 +17,7 @@ app.use(cors());
 //assign every routes in routes file start with /posts
 app.use('/posts', postRoutes);
 
-const CONNECTION_URL = 'mongodb+srv://arisa_ap:ployprapat0896001126@started1cluster.pugqhcx.mongodb.net/?retryWrites=true&w=majority';
+const CONNECTION_URL = 'your mongoDB key';
 const PORT = process.env.PORT || 5000;
 
 mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
